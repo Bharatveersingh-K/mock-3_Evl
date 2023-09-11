@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.5.1",
+    "nodemon": "^3.0.1"
+  },
+  "name": "mock-3_evl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bharatveersingh-K/mock-3_Evl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bharatveersingh-K/mock-3_Evl/issues"
+  },
+  "homepage": "https://github.com/Bharatveersingh-K/mock-3_Evl#readme",
+  "description": ""
+}
